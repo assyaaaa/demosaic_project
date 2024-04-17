@@ -1,0 +1,5 @@
+﻿# Ignore everything in this directory
+*
+# Except this file
+!2024-04-17 (1).jpg
+!.gitignore
